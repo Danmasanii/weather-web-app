@@ -1,2 +1,2 @@
-# Global weather web app design using HTML, CSS and JAVASCRIPT
+# Global weather web app designed using HTML, CSS and JAVASCRIPT
 [link](https://danmasanii.github.io/weather-web-app/)
