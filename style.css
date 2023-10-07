@@ -92,7 +92,7 @@ main {
   background-color: #a058a2;
   background-color: var(--bs-dark);
   text-align: center;
-  background: url(assets/tablet-800x1280.png);
+ /* background: url(assets/tablet-800x1280.png); */
   background: url(assets/desktop-1680x1050.jpg);
   background-size: cover;
   background-repeat: no-repeat;
